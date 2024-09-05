@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**DevArthuro/DevArthuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Who I am 🚀 ?
 
-Here are some ideas to get you started:
+👋 Hi! I’m DevArthuro, a passionate software developer constantly growing. I love exploring new technologies and improving my full-stack development skills. Here’s a bit more about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### If u wanna to know about my process
+
+[Here my LinkedIn](https://www.linkedin.com/in/carlos-arturo-orrego/)
+
+
+# My tech Stack
+
+In aditional for my tech stack, I like the DevOps profile for this way I like the AWS cloud and Vercel
+
+**React and Next lover**
+ 
+![App Screenshot](https://github-readme-stats.vercel.app/api/top-langs?username=DevArthuro&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=gotham&hide_border=false)
