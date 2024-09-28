@@ -9,7 +9,7 @@
 
 ### We build a project? or Can I contribute?
 
-Type me [Here my Email](mailto:carlitorrego123@gmail.com)
+Type me an email (carlitorrego123@gmail.com)
 
 # My tech Stack
 
